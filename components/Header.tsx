@@ -7,7 +7,7 @@ function Header() {
                 <Link href='/'><img className="w-44 object-contain cursor-pointer" src="https://links.papareact.com/yvf" alt="" /></Link>
                 <div className="flex">
                     <menu className="hidden md:inline-flex space-x-5 items-center">
-                        <Link href='/'><a>Our story</a></Link>
+                        <Link href='/our-story'><a>Our story</a></Link>
                         <Link href='/'><a>Membership</a></Link>
                         <Link href='/'><a>Write</a></Link>
                         <Link href='/'><a>Sign In</a></Link>
